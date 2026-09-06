@@ -1,0 +1,21 @@
+ModificationType: Executable
+Name: Generals Online - Observer Overlay
+Version: 60
+SimpleDownloadLink: "https://github.com/nathan-soul/GameClient-PluginFramework/releases/download/v0.6.0/Genovly-Overlay-v0.6.0.zip"
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: 'Original Game'
+S3HostLink: ''
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+SupportLink: ''
+ExceptionNames: []
+AdditionalFileNames:
+  - plugins/OverlayPlugin/OverlayPlugin.goplugin.dll
+ExecutableFileName: "GeneralsOnlineZH.exe"
+ReplacesOriginalGameFile: true
+ReplacesOriginalWBFile: false

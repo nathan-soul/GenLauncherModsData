@@ -181,6 +181,12 @@ executables:
 - ModName: Gentools
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/gentools.yaml
   DependencyName: ""
+- ModName: Generals Online - Observer Overlay
+  ModLink: https://raw.githubusercontent.com/nathan-soul/GenLauncherModsData/master/ObserverOverlay.yaml
+  DependencyName: ""
+- ModName: Generals Online - Gencast
+  ModLink: https://raw.githubusercontent.com/nathan-soul/GenLauncherModsData/master/Gencast.yaml
+  DependencyName: ""
 AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml

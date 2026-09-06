@@ -1,0 +1,20 @@
+ModificationType: Executable
+Name: Generals Online - Gencast
+Version: 100
+SimpleDownloadLink: "https://github.com/nathan-soul/GameClient-PluginFramework/releases/download/v1.0.0/GeneralsOnlineZH_60.exe"
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: 'Original Game'
+S3HostLink: ''
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+SupportLink: ''
+ExceptionNames: []
+AdditionalFileNames: []
+ExecutableFileName: "GeneralsOnlineZH.exe"
+ReplacesOriginalGameFile: true
+ReplacesOriginalWBFile: false
