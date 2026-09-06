@@ -17,5 +17,5 @@ ExceptionNames: []
 AdditionalFileNames:
   - plugins/OverlayPlugin/OverlayPlugin.goplugin.dll
 ExecutableFileName: "GeneralsOnlineZH.exe"
-ReplacesOriginalGameFile: true
+ReplacesOriginalGameFile: false
 ReplacesOriginalWBFile: false
