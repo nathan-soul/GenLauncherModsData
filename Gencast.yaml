@@ -16,5 +16,5 @@ SupportLink: ''
 ExceptionNames: []
 AdditionalFileNames: []
 ExecutableFileName: "GeneralsOnlineZH.exe"
-ReplacesOriginalGameFile: false
+ReplacesOriginalGameFile: true
 ReplacesOriginalWBFile: false
